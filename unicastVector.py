@@ -1,8 +1,5 @@
 #CSE 5306 - 004 Distributed Systems
-#Project 2
-#Vignesh Manikandan - 1002012757
-#Shane Sam Antony Rebinto Sam - 1002080770
-#Part 1 Unicast message
+#Unicast message
 
 import sys
 import threading
